@@ -18,9 +18,9 @@ invertDiskSpace=1
 showEjectButtons=1
 showDiskTemps=1
 showDiskReadWrite=1
-showLineGraph=1
-showHistograms=1
-showDiskReadWriteLetters=0
+showLineGraph=0
+showHistograms=0
+showDiskReadWriteLetters=1
 
 colorDisk1=107,238,98
 colorDisk2=255,246,42

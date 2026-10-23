@@ -3,19 +3,19 @@ timeAmPmSize=12
 showSystemUptime=1
 showEventCountdown=0
 
-eventName=the new year
-eventTimestamp=2021-01-01 00:00:00
+eventName=
+eventTimestamp=
 
-timeFormat=WinLong
-dateFormat=WinLong
-customTimeFormat=%#I:%M:%S %p
-customDateFormat=%m.%d.%G
+timeFormat=Custom
+dateFormat=Custom
+customTimeFormat=%I:%M:%S %p
+customDateFormat=%d %b %G
 
 locale=en-US
 
 ; DEBUGGING VARIABLES
 alarm1Time=12:30
-alarm2Time=18:13
+alarm2Time=18:00
 enableAlarm1=0
 enableAlarm2=0
 

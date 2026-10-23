@@ -52,9 +52,9 @@ Hidden=(#cpuCores# < 2) || (#showAvgCpuUsage# = 1)
 [MeterCore2Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore1
-MeasureName2=MeasureCpuTempCoreTempCore1
-MeasureName3=MeasureCpuTempSpeedFanCore1
+MeasureName=MeasureCpuTempHwinfoCore2
+MeasureName2=MeasureCpuTempCoreTempCore2
+MeasureName3=MeasureCpuTempSpeedFanCore2
 Text=%1#deg##tempUnits#
 Group=CpuCore2 | CoreTemps
 Hidden=(#cpuCores# < 2) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -62,7 +62,7 @@ Hidden=(#cpuCores# < 2) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore2Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore1
+MeasureName=MeasureCpuVoltageCore2
 Group=CpuCore2 | CoreVoltages
 Hidden=(#cpuCores# < 2) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -94,9 +94,9 @@ Hidden=(#cpuCores# < 3) || (#showAvgCpuUsage# = 1)
 [MeterCore3Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore2
-MeasureName2=MeasureCpuTempCoreTempCore2
-MeasureName3=MeasureCpuTempSpeedFanCore2
+MeasureName=MeasureCpuTempHwinfoCore3
+MeasureName2=MeasureCpuTempCoreTempCore3
+MeasureName3=MeasureCpuTempSpeedFanCore3
 Text=%1#deg##tempUnits#
 Group=CpuCore3 | CoreTemps
 Hidden=(#cpuCores# < 3) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -104,7 +104,7 @@ Hidden=(#cpuCores# < 3) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore3Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore2
+MeasureName=MeasureCpuVoltageCore3
 Group=CpuCore3 | CoreVoltages
 Hidden=(#cpuCores# < 3) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -136,9 +136,9 @@ Hidden=(#cpuCores# < 4) || (#showAvgCpuUsage# = 1)
 [MeterCore4Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore2
-MeasureName2=MeasureCpuTempCoreTempCore2
-MeasureName3=MeasureCpuTempSpeedFanCore2
+MeasureName=MeasureCpuTempHwinfoCore4
+MeasureName2=MeasureCpuTempCoreTempCore4
+MeasureName3=MeasureCpuTempSpeedFanCore4
 Text=%1#deg##tempUnits#
 Group=CpuCore4 | CoreTemps
 Hidden=(#cpuCores# < 4) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -146,7 +146,7 @@ Hidden=(#cpuCores# < 4) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore4Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore2
+MeasureName=MeasureCpuVoltageCore4
 Group=CpuCore4 | CoreVoltages
 Hidden=(#cpuCores# < 4) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -178,9 +178,9 @@ Hidden=(#cpuCores# < 5) || (#showAvgCpuUsage# = 1)
 [MeterCore5Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore3
-MeasureName2=MeasureCpuTempCoreTempCore3
-MeasureName3=MeasureCpuTempSpeedFanCore3
+MeasureName=MeasureCpuTempHwinfoCore5
+MeasureName2=MeasureCpuTempCoreTempCore5
+MeasureName3=MeasureCpuTempSpeedFanCore5
 Text=%1#deg##tempUnits#
 Group=CpuCore5 | CoreTemps
 Hidden=(#cpuCores# < 5) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -188,7 +188,7 @@ Hidden=(#cpuCores# < 5) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore5Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore3
+MeasureName=MeasureCpuVoltageCore5
 Group=CpuCore5 | CoreVoltages
 Hidden=(#cpuCores# < 5) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -220,9 +220,9 @@ Hidden=(#cpuCores# < 6) || (#showAvgCpuUsage# = 1)
 [MeterCore6Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore3
-MeasureName2=MeasureCpuTempCoreTempCore3
-MeasureName3=MeasureCpuTempSpeedFanCore3
+MeasureName=MeasureCpuTempHwinfoCore6
+MeasureName2=MeasureCpuTempCoreTempCore6
+MeasureName3=MeasureCpuTempSpeedFanCore6
 Text=%1#deg##tempUnits#
 Group=CpuCore6 | CoreTemps
 Hidden=(#cpuCores# < 6) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -230,7 +230,7 @@ Hidden=(#cpuCores# < 6) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore6Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore3
+MeasureName=MeasureCpuVoltageCore6
 Group=CpuCore6 | CoreVoltages
 Hidden=(#cpuCores# < 6) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -262,9 +262,9 @@ Hidden=(#cpuCores# < 7) || (#showAvgCpuUsage# = 1)
 [MeterCore7Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore4
-MeasureName2=MeasureCpuTempCoreTempCore4
-MeasureName3=MeasureCpuTempSpeedFanCore4
+MeasureName=MeasureCpuTempHwinfoCore7
+MeasureName2=MeasureCpuTempCoreTempCore7
+MeasureName3=MeasureCpuTempSpeedFanCore7
 Text=%1#deg##tempUnits#
 Group=CpuCore7 | CoreTemps
 Hidden=(#cpuCores# < 7) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -272,7 +272,7 @@ Hidden=(#cpuCores# < 7) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore7Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore4
+MeasureName=MeasureCpuVoltageCore7
 Group=CpuCore7 | CoreVoltages
 Hidden=(#cpuCores# < 7) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 
@@ -304,9 +304,9 @@ Hidden=(#cpuCores# < 8) || (#showAvgCpuUsage# = 1)
 [MeterCore8Temp]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreTemps
-MeasureName=MeasureCpuTempHwinfoCore4
-MeasureName2=MeasureCpuTempCoreTempCore4
-MeasureName3=MeasureCpuTempSpeedFanCore4
+MeasureName=MeasureCpuTempHwinfoCore8
+MeasureName2=MeasureCpuTempCoreTempCore8
+MeasureName3=MeasureCpuTempSpeedFanCore8
 Text=%1#deg##tempUnits#
 Group=CpuCore8 | CoreTemps
 Hidden=(#cpuCores# < 8) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || (#extProgram# = 0)
@@ -314,7 +314,7 @@ Hidden=(#cpuCores# < 8) || (#showAvgCpuUsage# = 1) || (#showCoreTemps# <> 1) || 
 [MeterCore8Voltage]
 Meter=String
 MeterStyle=StyleString | StyleStringInfo | StyleStringCoreVoltages
-MeasureName=MeasureCpuVoltageCore4
+MeasureName=MeasureCpuVoltageCore8
 Group=CpuCore8 | CoreVoltages
 Hidden=(#cpuCores# < 8) || (#showAvgCpuUsage# = 1) || (#showCoreVoltages# = 0) || (#extProgram# <> 1)
 

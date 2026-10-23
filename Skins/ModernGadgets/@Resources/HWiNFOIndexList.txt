@@ -1,0 +1,514 @@
+HWiNFO Sensor Entry Index List
+
+Index Sensor                                   Label                          Value
+----- ---------------------------------------- ------------------------------ ---------------
+0     System: LENOVO IdeaPad Pro 5 16IRH8      Virtual Memory Committed       12,741 MB
+1     System: LENOVO IdeaPad Pro 5 16IRH8      Virtual Memory Available       5,814 MB
+2     System: LENOVO IdeaPad Pro 5 16IRH8      Virtual Memory Load            68.6 %
+3     System: LENOVO IdeaPad Pro 5 16IRH8      Physical Memory Used           9,867 MB
+4     System: LENOVO IdeaPad Pro 5 16IRH8      Physical Memory Available      6,255 MB
+5     System: LENOVO IdeaPad Pro 5 16IRH8      Physical Memory Load           61.2 %
+6     System: LENOVO IdeaPad Pro 5 16IRH8      Page File Usage                5.0 %
+119   CPU [#0]: Intel Core i7-13700H           E-core 13 Ratio                11.0 x
+7     System: LENOVO IdeaPad Pro 5 16IRH8      Page File Total                2,432 MB
+8     System: LENOVO IdeaPad Pro 5 16IRH8      Page File Used                 122 MB
+9     CPU [#0]: Intel Core i7-13700H           P-core 0 VID                   1.161 V
+10    CPU [#0]: Intel Core i7-13700H           P-core 1 VID                   1.157 V
+11    CPU [#0]: Intel Core i7-13700H           P-core 2 VID                   1.152 V
+12    CPU [#0]: Intel Core i7-13700H           P-core 3 VID                   1.137 V
+13    CPU [#0]: Intel Core i7-13700H           P-core 4 VID                   1.122 V
+14    CPU [#0]: Intel Core i7-13700H           P-core 5 VID                   1.189 V
+15    CPU [#0]: Intel Core i7-13700H           E-core 6 VID                   1.149 V
+16    CPU [#0]: Intel Core i7-13700H           E-core 7 VID                   1.141 V
+17    CPU [#0]: Intel Core i7-13700H           E-core 8 VID                   1.141 V
+18    CPU [#0]: Intel Core i7-13700H           E-core 9 VID                   1.121 V
+19    CPU [#0]: Intel Core i7-13700H           E-core 10 VID                  1.121 V
+20    CPU [#0]: Intel Core i7-13700H           E-core 11 VID                  1.140 V
+21    CPU [#0]: Intel Core i7-13700H           E-core 12 VID                  1.155 V
+22    CPU [#0]: Intel Core i7-13700H           E-core 13 VID                  1.155 V
+120   CPU [#0]: Intel Core i7-13700H           Uncore Ratio                   39.0 x
+23    CPU [#0]: Intel Core i7-13700H           Uncore VID                     1.073 V
+24    CPU [#0]: Intel Core i7-13700H           SA VID                         0.836 V
+25    CPU [#0]: Intel Core i7-13700H           P-core 0 Clock                 1,396.6 MHz
+26    CPU [#0]: Intel Core i7-13700H           P-core 1 Clock                 1,396.6 MHz
+27    CPU [#0]: Intel Core i7-13700H           P-core 2 Clock                 4,389.3 MHz
+28    CPU [#0]: Intel Core i7-13700H           P-core 3 Clock                 4,489.0 MHz
+29    CPU [#0]: Intel Core i7-13700H           P-core 4 Clock                 1,396.6 MHz
+30    CPU [#0]: Intel Core i7-13700H           P-core 5 Clock                 4,389.3 MHz
+31    CPU [#0]: Intel Core i7-13700H           E-core 6 Clock                 1,097.3 MHz
+32    CPU [#0]: Intel Core i7-13700H           E-core 7 Clock                 1,097.3 MHz
+33    CPU [#0]: Intel Core i7-13700H           E-core 8 Clock                 1,097.3 MHz
+34    CPU [#0]: Intel Core i7-13700H           E-core 9 Clock                 1,097.3 MHz
+35    CPU [#0]: Intel Core i7-13700H           E-core 10 Clock                1,097.3 MHz
+36    CPU [#0]: Intel Core i7-13700H           E-core 11 Clock                1,097.3 MHz
+37    CPU [#0]: Intel Core i7-13700H           E-core 12 Clock                1,097.3 MHz
+38    CPU [#0]: Intel Core i7-13700H           E-core 13 Clock                1,097.3 MHz
+121   CPU [#0]: Intel Core i7-13700H           Core VIDs                      1.146 V
+39    CPU [#0]: Intel Core i7-13700H           Bus Clock                      99.8 MHz
+40    CPU [#0]: Intel Core i7-13700H           Ring/LLC Clock                 3,890.5 MHz
+41    CPU [#0]: Intel Core i7-13700H           P-core 0 T0 Effective Clock    259.6 MHz
+42    CPU [#0]: Intel Core i7-13700H           P-core 0 T1 Effective Clock    2.8 MHz
+43    CPU [#0]: Intel Core i7-13700H           P-core 1 T0 Effective Clock    245.8 MHz
+44    CPU [#0]: Intel Core i7-13700H           P-core 1 T1 Effective Clock    2.0 MHz
+45    CPU [#0]: Intel Core i7-13700H           P-core 2 T0 Effective Clock    1,319.7 MHz
+46    CPU [#0]: Intel Core i7-13700H           P-core 2 T1 Effective Clock    2.5 MHz
+47    CPU [#0]: Intel Core i7-13700H           P-core 3 T0 Effective Clock    1,347.5 MHz
+48    CPU [#0]: Intel Core i7-13700H           P-core 3 T1 Effective Clock    2.4 MHz
+49    CPU [#0]: Intel Core i7-13700H           P-core 4 T0 Effective Clock    282.3 MHz
+50    CPU [#0]: Intel Core i7-13700H           P-core 4 T1 Effective Clock    1.9 MHz
+51    CPU [#0]: Intel Core i7-13700H           P-core 5 T0 Effective Clock    344.7 MHz
+52    CPU [#0]: Intel Core i7-13700H           P-core 5 T1 Effective Clock    2.0 MHz
+53    CPU [#0]: Intel Core i7-13700H           E-core 6 T0 Effective Clock    365.4 MHz
+54    CPU [#0]: Intel Core i7-13700H           E-core 7 T0 Effective Clock    27.4 MHz
+55    CPU [#0]: Intel Core i7-13700H           E-core 8 T0 Effective Clock    19.7 MHz
+56    CPU [#0]: Intel Core i7-13700H           E-core 9 T0 Effective Clock    9.5 MHz
+57    CPU [#0]: Intel Core i7-13700H           E-core 10 T0 Effective Clock   722.5 MHz
+58    CPU [#0]: Intel Core i7-13700H           E-core 11 T0 Effective Clock   401.2 MHz
+59    CPU [#0]: Intel Core i7-13700H           E-core 12 T0 Effective Clock   239.7 MHz
+122   CPU [#0]: Intel Core i7-13700H           Core Clocks                    1,874.0 MHz
+60    CPU [#0]: Intel Core i7-13700H           E-core 13 T0 Effective Clock   147.9 MHz
+61    CPU [#0]: Intel Core i7-13700H           Average Effective Clock        264.7 MHz
+62    CPU [#0]: Intel Core i7-13700H           P-core 0 T0 Usage              8.0 %
+63    CPU [#0]: Intel Core i7-13700H           P-core 0 T1 Usage              0.7 %
+64    CPU [#0]: Intel Core i7-13700H           P-core 1 T0 Usage              8.4 %
+65    CPU [#0]: Intel Core i7-13700H           P-core 1 T1 Usage              0.6 %
+66    CPU [#0]: Intel Core i7-13700H           P-core 2 T0 Usage              39.5 %
+67    CPU [#0]: Intel Core i7-13700H           P-core 2 T1 Usage              2.2 %
+68    CPU [#0]: Intel Core i7-13700H           P-core 3 T0 Usage              40.0 %
+69    CPU [#0]: Intel Core i7-13700H           P-core 3 T1 Usage              0.6 %
+70    CPU [#0]: Intel Core i7-13700H           P-core 4 T0 Usage              9.6 %
+71    CPU [#0]: Intel Core i7-13700H           P-core 4 T1 Usage              0.7 %
+72    CPU [#0]: Intel Core i7-13700H           P-core 5 T0 Usage              11.8 %
+73    CPU [#0]: Intel Core i7-13700H           P-core 5 T1 Usage              0.7 %
+74    CPU [#0]: Intel Core i7-13700H           E-core 6 T0 Usage              31.4 %
+75    CPU [#0]: Intel Core i7-13700H           E-core 7 T0 Usage              2.8 %
+76    CPU [#0]: Intel Core i7-13700H           E-core 8 T0 Usage              2.3 %
+77    CPU [#0]: Intel Core i7-13700H           E-core 9 T0 Usage              1.4 %
+78    CPU [#0]: Intel Core i7-13700H           E-core 10 T0 Usage             59.7 %
+79    CPU [#0]: Intel Core i7-13700H           E-core 11 T0 Usage             32.8 %
+80    CPU [#0]: Intel Core i7-13700H           E-core 12 T0 Usage             20.4 %
+81    CPU [#0]: Intel Core i7-13700H           E-core 13 T0 Usage             12.7 %
+82    CPU [#0]: Intel Core i7-13700H           Max CPU/Thread Usage           59.7 %
+124   CPU [#0]: Intel Core i7-13700H           Core Usage                     14.3 %
+83    CPU [#0]: Intel Core i7-13700H           Total CPU Usage                14.3 %
+84    CPU [#0]: Intel Core i7-13700H           On-Demand Clock Modulation     100.0 %
+85    CPU [#0]: Intel Core i7-13700H           P-core 0 T0 Utility            11.5 %
+86    CPU [#0]: Intel Core i7-13700H           P-core 0 T1 Utility            0.2 %
+87    CPU [#0]: Intel Core i7-13700H           P-core 1 T0 Utility            10.8 %
+88    CPU [#0]: Intel Core i7-13700H           P-core 1 T1 Utility            0.1 %
+89    CPU [#0]: Intel Core i7-13700H           P-core 2 T0 Utility            56.8 %
+90    CPU [#0]: Intel Core i7-13700H           P-core 2 T1 Utility            0.1 %
+91    CPU [#0]: Intel Core i7-13700H           P-core 3 T0 Utility            57.7 %
+92    CPU [#0]: Intel Core i7-13700H           P-core 3 T1 Utility            0.1 %
+93    CPU [#0]: Intel Core i7-13700H           P-core 4 T0 Utility            12.7 %
+94    CPU [#0]: Intel Core i7-13700H           P-core 4 T1 Utility            0.1 %
+95    CPU [#0]: Intel Core i7-13700H           P-core 5 T0 Utility            14.9 %
+96    CPU [#0]: Intel Core i7-13700H           P-core 5 T1 Utility            0.1 %
+97    CPU [#0]: Intel Core i7-13700H           E-core 6 T0 Utility            21.3 %
+98    CPU [#0]: Intel Core i7-13700H           E-core 7 T0 Utility            1.6 %
+99    CPU [#0]: Intel Core i7-13700H           E-core 8 T0 Utility            1.2 %
+100   CPU [#0]: Intel Core i7-13700H           E-core 9 T0 Utility            0.6 %
+101   CPU [#0]: Intel Core i7-13700H           E-core 10 T0 Utility           41.6 %
+102   CPU [#0]: Intel Core i7-13700H           E-core 11 T0 Utility           22.9 %
+103   CPU [#0]: Intel Core i7-13700H           E-core 12 T0 Utility           13.7 %
+123   CPU [#0]: Intel Core i7-13700H           Core Effective Clocks          287.3 MHz
+104   CPU [#0]: Intel Core i7-13700H           E-core 13 T0 Utility           8.4 %
+105   CPU [#0]: Intel Core i7-13700H           Total CPU Utility              13.8 %
+106   CPU [#0]: Intel Core i7-13700H           P-core 0 Ratio                 14.0 x
+107   CPU [#0]: Intel Core i7-13700H           P-core 1 Ratio                 14.0 x
+108   CPU [#0]: Intel Core i7-13700H           P-core 2 Ratio                 44.0 x
+109   CPU [#0]: Intel Core i7-13700H           P-core 3 Ratio                 45.0 x
+110   CPU [#0]: Intel Core i7-13700H           P-core 4 Ratio                 14.0 x
+111   CPU [#0]: Intel Core i7-13700H           P-core 5 Ratio                 44.0 x
+112   CPU [#0]: Intel Core i7-13700H           E-core 6 Ratio                 11.0 x
+113   CPU [#0]: Intel Core i7-13700H           E-core 7 Ratio                 11.0 x
+114   CPU [#0]: Intel Core i7-13700H           E-core 8 Ratio                 11.0 x
+115   CPU [#0]: Intel Core i7-13700H           E-core 9 Ratio                 11.0 x
+116   CPU [#0]: Intel Core i7-13700H           E-core 10 Ratio                11.0 x
+117   CPU [#0]: Intel Core i7-13700H           E-core 11 Ratio                11.0 x
+118   CPU [#0]: Intel Core i7-13700H           E-core 12 Ratio                11.0 x
+200   CPU [#0]: Intel Core i7-13700H: DTS      Package/Ring Critical Tempe... No
+125   CPU [#0]: Intel Core i7-13700H           Core Ratios                    18.8 x
+126   CPU [#0]: Intel Core i7-13700H           Core Utility                   13.8 %
+127   CPU [#0]: Intel Core i7-13700H: DTS      P-core 0                       51 øC
+128   CPU [#0]: Intel Core i7-13700H: DTS      P-core 1                       57 øC
+129   CPU [#0]: Intel Core i7-13700H: DTS      P-core 2                       58 øC
+130   CPU [#0]: Intel Core i7-13700H: DTS      P-core 3                       56 øC
+131   CPU [#0]: Intel Core i7-13700H: DTS      P-core 4                       54 øC
+132   CPU [#0]: Intel Core i7-13700H: DTS      P-core 5                       53 øC
+133   CPU [#0]: Intel Core i7-13700H: DTS      E-core 6                       56 øC
+134   CPU [#0]: Intel Core i7-13700H: DTS      E-core 7                       56 øC
+135   CPU [#0]: Intel Core i7-13700H: DTS      E-core 8                       56 øC
+136   CPU [#0]: Intel Core i7-13700H: DTS      E-core 9                       56 øC
+137   CPU [#0]: Intel Core i7-13700H: DTS      E-core 10                      54 øC
+138   CPU [#0]: Intel Core i7-13700H: DTS      E-core 11                      54 øC
+201   CPU [#0]: Intel Core i7-13700H: DTS      Package/Ring Power Limit Ex... No
+139   CPU [#0]: Intel Core i7-13700H: DTS      E-core 12                      54 øC
+140   CPU [#0]: Intel Core i7-13700H: DTS      E-core 13                      54 øC
+141   CPU [#0]: Intel Core i7-13700H: DTS      P-core 0 Distance to TjMAX     49 øC
+142   CPU [#0]: Intel Core i7-13700H: DTS      P-core 1 Distance to TjMAX     43 øC
+143   CPU [#0]: Intel Core i7-13700H: DTS      P-core 2 Distance to TjMAX     42 øC
+144   CPU [#0]: Intel Core i7-13700H: DTS      P-core 3 Distance to TjMAX     44 øC
+145   CPU [#0]: Intel Core i7-13700H: DTS      P-core 4 Distance to TjMAX     46 øC
+146   CPU [#0]: Intel Core i7-13700H: DTS      P-core 5 Distance to TjMAX     47 øC
+147   CPU [#0]: Intel Core i7-13700H: DTS      E-core 6 Distance to TjMAX     44 øC
+148   CPU [#0]: Intel Core i7-13700H: DTS      E-core 7 Distance to TjMAX     44 øC
+149   CPU [#0]: Intel Core i7-13700H: DTS      E-core 8 Distance to TjMAX     44 øC
+150   CPU [#0]: Intel Core i7-13700H: DTS      E-core 9 Distance to TjMAX     44 øC
+151   CPU [#0]: Intel Core i7-13700H: DTS      E-core 10 Distance to TjMAX    46 øC
+152   CPU [#0]: Intel Core i7-13700H: DTS      E-core 11 Distance to TjMAX    46 øC
+202   CPU [#0]: Intel Core i7-13700H: DTS      Core Temperatures              50 øC
+155   CPU [#0]: Intel Core i7-13700H: DTS      CPU Package                    57 øC
+156   CPU [#0]: Intel Core i7-13700H: DTS      Core Max                       53 øC
+157   CPU [#0]: Intel Core i7-13700H: DTS      P-core 0 Thermal Throttling    No
+158   CPU [#0]: Intel Core i7-13700H: DTS      P-core 1 Thermal Throttling    No
+159   CPU [#0]: Intel Core i7-13700H: DTS      P-core 2 Thermal Throttling    No
+160   CPU [#0]: Intel Core i7-13700H: DTS      P-core 3 Thermal Throttling    No
+161   CPU [#0]: Intel Core i7-13700H: DTS      P-core 4 Thermal Throttling    No
+162   CPU [#0]: Intel Core i7-13700H: DTS      P-core 5 Thermal Throttling    No
+163   CPU [#0]: Intel Core i7-13700H: DTS      E-core 6 Thermal Throttling    No
+164   CPU [#0]: Intel Core i7-13700H: DTS      E-core 7 Thermal Throttling    No
+165   CPU [#0]: Intel Core i7-13700H: DTS      E-core 8 Thermal Throttling    No
+166   CPU [#0]: Intel Core i7-13700H: DTS      E-core 9 Thermal Throttling    No
+167   CPU [#0]: Intel Core i7-13700H: DTS      E-core 10 Thermal Throttling   No
+168   CPU [#0]: Intel Core i7-13700H: DTS      E-core 11 Thermal Throttling   No
+203   CPU [#0]: Intel Core i7-13700H: DTS      Core Distance to TjMAX         50 øC
+169   CPU [#0]: Intel Core i7-13700H: DTS      E-core 12 Thermal Throttling   No
+170   CPU [#0]: Intel Core i7-13700H: DTS      E-core 13 Thermal Throttling   No
+171   CPU [#0]: Intel Core i7-13700H: DTS      P-core 0 Critical Temperature  No
+172   CPU [#0]: Intel Core i7-13700H: DTS      P-core 1 Critical Temperature  No
+173   CPU [#0]: Intel Core i7-13700H: DTS      P-core 2 Critical Temperature  No
+174   CPU [#0]: Intel Core i7-13700H: DTS      P-core 3 Critical Temperature  No
+175   CPU [#0]: Intel Core i7-13700H: DTS      P-core 4 Critical Temperature  No
+176   CPU [#0]: Intel Core i7-13700H: DTS      P-core 5 Critical Temperature  No
+177   CPU [#0]: Intel Core i7-13700H: DTS      E-core 6 Critical Temperature  No
+178   CPU [#0]: Intel Core i7-13700H: DTS      E-core 7 Critical Temperature  No
+179   CPU [#0]: Intel Core i7-13700H: DTS      E-core 8 Critical Temperature  No
+180   CPU [#0]: Intel Core i7-13700H: DTS      E-core 9 Critical Temperature  No
+181   CPU [#0]: Intel Core i7-13700H: DTS      E-core 10 Critical Temperature No
+182   CPU [#0]: Intel Core i7-13700H: DTS      E-core 11 Critical Temperature No
+204   CPU [#0]: Intel Core i7-13700H: DTS      Core Thermal Throttling        No
+183   CPU [#0]: Intel Core i7-13700H: DTS      E-core 12 Critical Temperature No
+184   CPU [#0]: Intel Core i7-13700H: DTS      E-core 13 Critical Temperature No
+185   CPU [#0]: Intel Core i7-13700H: DTS      P-core 0 Power Limit Exceeded  No
+186   CPU [#0]: Intel Core i7-13700H: DTS      P-core 1 Power Limit Exceeded  No
+187   CPU [#0]: Intel Core i7-13700H: DTS      P-core 2 Power Limit Exceeded  No
+188   CPU [#0]: Intel Core i7-13700H: DTS      P-core 3 Power Limit Exceeded  No
+189   CPU [#0]: Intel Core i7-13700H: DTS      P-core 4 Power Limit Exceeded  No
+190   CPU [#0]: Intel Core i7-13700H: DTS      P-core 5 Power Limit Exceeded  No
+191   CPU [#0]: Intel Core i7-13700H: DTS      E-core 6 Power Limit Exceeded  No
+192   CPU [#0]: Intel Core i7-13700H: DTS      E-core 7 Power Limit Exceeded  No
+193   CPU [#0]: Intel Core i7-13700H: DTS      E-core 8 Power Limit Exceeded  No
+194   CPU [#0]: Intel Core i7-13700H: DTS      E-core 9 Power Limit Exceeded  No
+195   CPU [#0]: Intel Core i7-13700H: DTS      E-core 10 Power Limit Exceeded No
+196   CPU [#0]: Intel Core i7-13700H: DTS      E-core 11 Power Limit Exceeded No
+197   CPU [#0]: Intel Core i7-13700H: DTS      E-core 12 Power Limit Exceeded No
+198   CPU [#0]: Intel Core i7-13700H: DTS      E-core 13 Power Limit Exceeded No
+199   CPU [#0]: Intel Core i7-13700H: DTS      Package/Ring Thermal Thrott... No
+205   CPU [#0]: Intel Core i7-13700H: DTS      Core Critical Temperature      No
+206   CPU [#0]: Intel Core i7-13700H: DTS      Core Power Limit Exceeded      No
+207   CPU [#0]: Intel Core i7-13700H: Enhanced CPU Package                    54 øC
+234   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 1 T0 C0 Residency       1.4 %
+209   CPU [#0]: Intel Core i7-13700H: Enhanced CPU GT Cores (Graphics)        51 øC
+210   CPU [#0]: Intel Core i7-13700H: Enhanced IA Voltage Offset              0.000 V
+211   CPU [#0]: Intel Core i7-13700H: Enhanced GT Voltage Offset              0.000 V
+212   CPU [#0]: Intel Core i7-13700H: Enhanced CLR (CBo/LLC/Ring) Voltage ... 0.000 V
+213   CPU [#0]: Intel Core i7-13700H: Enhanced GT Media Voltage Offset        0.000 V
+214   CPU [#0]: Intel Core i7-13700H: Enhanced SA Voltage Offset              0.000 V
+215   CPU [#0]: Intel Core i7-13700H: Enhanced L2 E-core Voltage Offset       0.000 V
+216   CPU [#0]: Intel Core i7-13700H: Enhanced VDDQ TX Voltage                0.800 V
+217   CPU [#0]: Intel Core i7-13700H: Enhanced VR VCC Current (SVID IOUT)     5.000 A
+218   CPU [#0]: Intel Core i7-13700H: Enhanced CPU Package Power              12.895 W
+219   CPU [#0]: Intel Core i7-13700H: Enhanced IA Cores Power                 5.634 W
+220   CPU [#0]: Intel Core i7-13700H: Enhanced GT Cores Power                 0.118 W
+221   CPU [#0]: Intel Core i7-13700H: Enhanced System Agent Power             6.487 W
+222   CPU [#0]: Intel Core i7-13700H: Enhanced Rest-of-Chip Power             0.278 W
+223   CPU [#0]: Intel Core i7-13700H: Enhanced PCH Power                      0.056 W
+224   CPU [#0]: Intel Core i7-13700H: Enhanced PL1 Power Limit (Static)       90.0 W
+225   CPU [#0]: Intel Core i7-13700H: Enhanced PL1 Power Limit (Dynamic)      50.0 W
+233   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 0 T1 C0 Residency       0.2 %
+236   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 2 T0 C0 Residency       35.8 %
+292   Memory Timings                           Tcas                           60 T
+238   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 3 T0 C0 Residency       36.3 %
+239   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 3 T1 C0 Residency       0.1 %
+240   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 4 T0 C0 Residency       14.4 %
+241   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 4 T1 C0 Residency       0.1 %
+242   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 5 T0 C0 Residency       16.8 %
+243   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 5 T1 C0 Residency       0.1 %
+244   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 6 T0 C0 Residency       14.7 %
+245   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 7 T0 C0 Residency       0.2 %
+246   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 8 T0 C0 Residency       0.5 %
+247   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 9 T0 C0 Residency       0.1 %
+248   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 10 T0 C0 Residency      22.6 %
+249   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 11 T0 C0 Residency      9.7 %
+250   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 12 T0 C0 Residency      6.0 %
+251   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 13 T0 C0 Residency      2.1 %
+252   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 0 C1 Residency          14.6 %
+253   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 1 C1 Residency          5.9 %
+254   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 2 C1 Residency          52.2 %
+255   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 3 C1 Residency          48.7 %
+256   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 4 C1 Residency          45.2 %
+257   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 5 C1 Residency          16.5 %
+293   Memory Timings                           Trcd                           48 T
+258   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 6 C1 Residency          4.0 %
+259   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 7 C1 Residency          0.0 %
+260   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 8 C1 Residency          0.0 %
+261   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 9 C1 Residency          0.0 %
+262   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 10 C1 Residency         4.4 %
+263   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 11 C1 Residency         2.1 %
+264   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 12 C1 Residency         1.4 %
+265   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 13 C1 Residency         0.0 %
+266   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 0 C6 Residency          0.0 %
+267   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 1 C6 Residency          0.0 %
+268   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 2 C6 Residency          4.1 %
+269   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 3 C6 Residency          1.2 %
+270   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 4 C6 Residency          0.0 %
+271   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 5 C6 Residency          4.2 %
+294   Memory Timings                           Trp                            48 T
+272   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 6 C6 Residency          80.0 %
+273   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 7 C6 Residency          99.5 %
+274   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 8 C6 Residency          99.2 %
+275   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 9 C6 Residency          99.6 %
+276   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 10 C6 Residency         71.3 %
+277   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 11 C6 Residency         87.3 %
+278   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 12 C6 Residency         91.9 %
+279   CPU [#0]: Intel Core i7-13700H: C-Sta... E-core 13 C6 Residency         97.6 %
+280   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 0 C7 Residency          77.3 %
+281   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 1 C7 Residency          91.5 %
+282   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 2 C7 Residency          5.0 %
+283   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 3 C7 Residency          11.5 %
+284   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 4 C7 Residency          37.0 %
+285   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 5 C7 Residency          59.8 %
+295   Memory Timings                           Tras                           112 T
+286   CPU [#0]: Intel Core i7-13700H: C-Sta... Core C0 Residency              8.4 %
+287   CPU [#0]: Intel Core i7-13700H: C-Sta... Core C1 Residency              13.9 %
+288   CPU [#0]: Intel Core i7-13700H: C-Sta... Core C6 Residency              52.6 %
+289   CPU [#0]: Intel Core i7-13700H: C-Sta... Core C7 Residency              47.0 %
+290   Memory Timings                           Memory Clock                   2,593.7 MHz
+291   Memory Timings                           Memory Clock Ratio             26.00 x
+296   Memory Timings                           Trc                            160 T
+297   Memory Timings                           Trfc                           728 T
+298   Memory Timings                           Command Rate                   1 T
+299   Memory Timings                           Gear Mode                      2 
+300   CPU [#0]: Intel Core i7-13700H: Perfo... IA: PROCHOT                    No
+301   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Thermal Event              No
+302   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Residency State Regulation No
+303   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Running Average Thermal... No
+304   CPU [#0]: Intel Core i7-13700H: Perfo... IA: VR Thermal Alert           No
+305   CPU [#0]: Intel Core i7-13700H: Perfo... IA: VR TDC                     No
+341   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Remaining Life           93.0 %
+306   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Electrical Design Point... No
+307   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Package-Level RAPL/PBM PL1 No
+308   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Package-Level RAPL/PBM ... No
+309   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Max Turbo Limit            No
+310   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Turbo Attenuation (MCT)    No
+311   CPU [#0]: Intel Core i7-13700H: Perfo... IA: Thermal Velocity Boost     No
+312   CPU [#0]: Intel Core i7-13700H: Perfo... GT: PROCHOT                    No
+313   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Thermal Event              No
+314   CPU [#0]: Intel Core i7-13700H: Perfo... GT: DDR RAPL                   No
+315   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Residency State Regulation No
+316   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Running Average Thermal... No
+317   CPU [#0]: Intel Core i7-13700H: Perfo... GT: VR Thermal Alert           No
+342   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Available Spare          100.0 %
+318   CPU [#0]: Intel Core i7-13700H: Perfo... GT: VR TDC                     No
+319   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Max VR Voltage, ICCmax,... Yes
+320   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Domain-Level PBM PLGT      No
+321   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Package-Level RAPL/PBM PL1 No
+322   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Package-Level RAPL/PBM ... No
+323   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Inefficient Operation      No
+324   CPU [#0]: Intel Core i7-13700H: Perfo... GT: Fuses limit                No
+325   CPU [#0]: Intel Core i7-13700H: Perfo... RING: PROCHOT                  No
+326   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Thermal Event            No
+327   CPU [#0]: Intel Core i7-13700H: Perfo... RING: DDR RAPL                 No
+328   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Residency State Regul... No
+329   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Running Average Therm... No
+330   CPU [#0]: Intel Core i7-13700H: Perfo... RING: VR Thermal Alert         No
+343   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Failure                  No
+331   CPU [#0]: Intel Core i7-13700H: Perfo... RING: VR TDC                   No
+332   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Max VR Voltage, ICCma... No
+333   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Package-Level RAPL/PB... No
+334   CPU [#0]: Intel Core i7-13700H: Perfo... RING: Package-Level RAPL/PB... No
+335   CPU [#0]: Intel Core i7-13700H: Perfo... IA Limit Reasons               No
+336   CPU [#0]: Intel Core i7-13700H: Perfo... GT Limit Reasons               Yes
+337   CPU [#0]: Intel Core i7-13700H: Perfo... Ring Limit Reasons             No
+338   LENOVO LNVNB161216 (Intel PCH)           PCH Temperature                49.0 øC
+339   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Temperature              42 øC
+340   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Temperature 2            42 øC
+344   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Drive Warning                  No
+345   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Total Host Writes              22,582 GB
+346   S.M.A.R.T.: SAMSUNG MZAL4512HBLU-00BL... Total Host Reads               27,666 GB
+347   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Drive Temperature              62 øC
+348   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Drive Remaining Life           96.0 %
+349   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Drive Available Spare          100.0 %
+350   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Drive Failure                  No
+351   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Drive Warning                  No
+352   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Total Host Writes              9,756 GB
+353   S.M.A.R.T.: INTEL SSDPEKKW256G7 (BTPY... Total Host Reads               13,127 GB
+354   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Read Activity                  2.2 %
+355   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Write Activity                 0.0 %
+356   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Total Activity                 2.2 %
+357   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Read Rate                      32.418 MB/s
+358   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Write Rate                     0.024 MB/s
+359   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Read Total                     68,758 MB
+360   Drive: SAMSUNG MZAL4512HBLU-00BL2 (S6... Write Total                    7,935 MB
+361   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Read Activity                  0.0 %
+362   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Write Activity                 98.9 %
+363   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Total Activity                 98.9 %
+400   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Controller Load     15.0 %
+364   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Read Rate                      0.000 MB/s
+365   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Write Rate                     24.170 MB/s
+366   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Read Total                     8 MB
+367   Drive: INTEL SSDPEKKW256G7 (BTPY74400... Write Total                    56,457 MB
+401   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Video Engine Load          0.0 %
+368   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Temperature                44.7 øC
+369   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Junction Tempera... 56.0 øC
+370   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Hot Spot Temperature       52.3 øC
+371   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory A1 Temperature      52 øC
+372   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory B0 Temperature      52 øC
+373   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory B1 Temperature      56 øC
+374   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Thermal Limit              75.0 øC
+375   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Core Voltage               0.625 V
+376   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU FBVDD Input Voltage        20.553 V
+377   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU 12VHPWR Voltage            20.538 V
+378   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU FBVDD Output Voltage       20.553 V
+379   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Power                      2.486 W
+380   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Core (NVVDD) Input Powe... 0.000 W
+381   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU FBVDD Input Power          1.398 W
+382   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU 12VHPWR Power              1.273 W
+383   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU PCIe +3.3V Input Power ... 1.201 W
+384   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Input PP Source Power (... 2.485 W
+385   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Core (NVVDD) Output Power  0.639 W
+386   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Core (NVVDD) Output Power  0.676 W
+387   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU FBVDD Output Power         1.398 W
+388   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Power Limit (rated)        55.000 W
+402   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Bus Load                   1.0 %
+389   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Power Limit (max)          90.000 W
+390   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Clock                      270.0 MHz
+391   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Clock               101.2 MHz
+392   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Video Clock                765.0 MHz
+393   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Effective Clock            179.4 MHz
+394   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Crossbar Clock             825.0 MHz
+395   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU System Domain Clock        780.0 MHz
+396   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Clock (measured)           235.9 MHz
+397   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Clock (measured)    85.3 MHz
+398   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Crossbar Clock (measured)  714.2 MHz
+399   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Core Load                  9.0 %
+237   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 2 T1 C0 Residency       0.1 %
+153   CPU [#0]: Intel Core i7-13700H: DTS      E-core 12 Distance to TjMAX    50 øC
+154   CPU [#0]: Intel Core i7-13700H: DTS      E-core 13 Distance to TjMAX    50 øC
+208   CPU [#0]: Intel Core i7-13700H: Enhanced CPU IA Cores                   52 øC
+226   CPU [#0]: Intel Core i7-13700H: Enhanced PL2 Power Limit (Static)       115.0 W
+227   CPU [#0]: Intel Core i7-13700H: Enhanced PL2 Power Limit (Dynamic)      70.0 W
+228   CPU [#0]: Intel Core i7-13700H: Enhanced Current cTDP Level             0 
+229   CPU [#0]: Intel Core i7-13700H: Enhanced Voltage Offsets                0.000 V
+230   CPU [#0]: Intel Core i7-13700H: C-Sta... Package C2 Residency           4.7 %
+231   CPU [#0]: Intel Core i7-13700H: C-Sta... Package C3 Residency           0.0 %
+232   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 0 T0 C0 Residency       6.0 %
+235   CPU [#0]: Intel Core i7-13700H: C-Sta... P-core 1 T1 C0 Residency       0.1 %
+403   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Usage               24.4 %
+404   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU D3D Usage                  4.2 %
+405   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Video Decode 0 Usage       0.0 %
+406   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Video Encode 0 Usage       0.0 %
+407   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU VR Usage                   0.0 %
+408   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - Power      No
+409   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - Thermal    No
+410   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - Reliabi... No
+411   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - Max Ope... No
+412   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - Utiliza... Yes
+453   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Chip Temperatures   53 øC
+448   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Rail Voltages              20.548 V
+449   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Rail Powers                1.134 W
+451   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU D3D Usages                 1.0 %
+450   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Performance Limiters       Yes
+413   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Performance Limit - SLI GPU... No
+452   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCI Express Error Counters     9 
+414   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Receiver Errors                0 
+415   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Replay Count                   0 
+416   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Replay Rollover Count          0 
+417   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Bad DLLP Count                 0 
+418   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Bad TLP Count                  0 
+419   dGPU [#1]: NVIDIA GeForce RTX 4050 La... LCRC Error Count               0 
+420   dGPU [#1]: NVIDIA GeForce RTX 4050 La... NAKs Sent Count                0 
+421   dGPU [#1]: NVIDIA GeForce RTX 4050 La... NAKs Received Count            0 
+422   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Recovery Count                 247 
+423   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Correctable Error Count        0 
+424   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Non-Fatal Error Count          0 
+425   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Fatal Error Count              0 
+426   dGPU [#1]: NVIDIA GeForce RTX 4050 La... Unsupported Request Count      0 
+427   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 0 Errors             0 
+428   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 1 Errors             0 
+429   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 2 Errors             0 
+430   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 3 Errors             0 
+431   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 4 Errors             0 
+432   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 5 Errors             0 
+433   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 6 Errors             0 
+434   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 7 Errors             0 
+435   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 8 Errors             0 
+436   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 9 Errors             0 
+437   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 10 Errors            0 
+438   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 11 Errors            0 
+439   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 12 Errors            0 
+440   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 13 Errors            0 
+441   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 14 Errors            0 
+442   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Lane 15 Errors            0 
+443   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Available           4,641 MB
+444   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU Memory Allocated           1,500 MB
+445   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU D3D Memory Dedicated       1,293 MB
+446   dGPU [#1]: NVIDIA GeForce RTX 4050 La... GPU D3D Memory Dynamic         77 MB
+447   dGPU [#1]: NVIDIA GeForce RTX 4050 La... PCIe Link Speed                2.5 GT/s
+454   iGPU [#0]: Intel Iris Xe Graphics        GPU Core Temperature           53 øC
+455   iGPU [#0]: Intel Iris Xe Graphics        iGPU VID                       0.207 V
+456   iGPU [#0]: Intel Iris Xe Graphics        IGPU Power                     0.118 W
+457   iGPU [#0]: Intel Iris Xe Graphics        GPU Clock                      300.0 MHz
+458   iGPU [#0]: Intel Iris Xe Graphics        GPU Memory Clock               2,593.0 MHz
+459   iGPU [#0]: Intel Iris Xe Graphics        GPU Total Usage                1.4 %
+460   iGPU [#0]: Intel Iris Xe Graphics        GPU Computing Usage            0.0 %
+461   iGPU [#0]: Intel Iris Xe Graphics        GPU Media Engine Usage         0.0 %
+476   iGPU [#0]: Intel Iris Xe Graphics        GPU D3D Utilizations           0.0 %
+462   iGPU [#0]: Intel Iris Xe Graphics        GPU D3D Usage                  0.0 %
+463   iGPU [#0]: Intel Iris Xe Graphics        GPU Video Decode 0 Usage       0.0 %
+464   iGPU [#0]: Intel Iris Xe Graphics        GPU Video Decode 1 Usage       0.0 %
+465   iGPU [#0]: Intel Iris Xe Graphics        GPU Video Processing 0 Usage   0.0 %
+466   iGPU [#0]: Intel Iris Xe Graphics        GPU Copy Engine Usage          0.0 %
+467   iGPU [#0]: Intel Iris Xe Graphics        GPU D3D Memory Dynamic         152 MB
+475   iGPU [#0]: Intel Iris Xe Graphics        GPU Throttle Reasons           No
+468   iGPU [#0]: Intel Iris Xe Graphics        Avg. Power (PL1)               No
+469   iGPU [#0]: Intel Iris Xe Graphics        Burst Power (PL2)              No
+470   iGPU [#0]: Intel Iris Xe Graphics        Current (PL4)                  No
+471   iGPU [#0]: Intel Iris Xe Graphics        Thermal                        No
+472   iGPU [#0]: Intel Iris Xe Graphics        Power Supply                   No
+473   iGPU [#0]: Intel Iris Xe Graphics        Software Limit                 No
+474   iGPU [#0]: Intel Iris Xe Graphics        Hardware Limit                 No
+477   Battery: SMP L22M4PF5                    Battery Voltage                17.722 V
+478   Battery: SMP L22M4PF5                    Remaining Capacity             67.490 Wh
+479   Battery: SMP L22M4PF5                    Charge Level                   98.8 %
+480   Battery: SMP L22M4PF5                    Charge Rate                    8.187 W
+481   Battery: SMP L22M4PF5                    Wear Level                     9.0 %
+482   PresentMon [dwm.exe]                     Framerate Presented (avg)      54.3 FPS
+483   PresentMon [dwm.exe]                     Framerate Presented (99%)      217.5 FPS
+484   PresentMon [dwm.exe]                     Framerate Presented (1%)       6.9 FPS
+485   PresentMon [dwm.exe]                     Framerate Presented (0.1%)     1.3 FPS
+486   PresentMon [dwm.exe]                     Framerate Presented (1% low)   1.1 FPS
+487   PresentMon [dwm.exe]                     Framerate Presented (0.1% low) 1.1 FPS
+488   PresentMon [dwm.exe]                     Framerate Displayed (avg)      54.3 FPS
+489   PresentMon [dwm.exe]                     Framerate Displayed (99%)      150.7 FPS
+490   PresentMon [dwm.exe]                     Framerate Displayed (1%)       6.9 FPS
+491   PresentMon [dwm.exe]                     Framerate Displayed (0.1%)     1.3 FPS
+492   PresentMon [dwm.exe]                     Framerate Displayed (1% low)   1.2 FPS
+493   PresentMon [dwm.exe]                     Framerate Displayed (0.1% low) 1.2 FPS
+494   PresentMon [dwm.exe]                     Frame Time Presented (avg)     18.41 ms
+495   PresentMon [dwm.exe]                     Frame Time Presented (99%)     145.32 ms
+496   PresentMon [dwm.exe]                     Frame Time Presented (1%)      4.60 ms
+497   PresentMon [dwm.exe]                     Frame Time Presented (0.1%)    2.84 ms
+498   PresentMon [dwm.exe]                     Frame Time Displayed (1% high) 871.93 ms
+499   PresentMon [dwm.exe]                     Frame Time Displayed (0.1% ... 871.93 ms
+500   PresentMon [dwm.exe]                     GPU Busy (avg)                 1.37 ms
+501   PresentMon [dwm.exe]                     GPU Wait (avg)                 17.04 ms
+502   PresentMon [dwm.exe]                     CPU Busy (avg)                 18.41 ms
+503   PresentMon [dwm.exe]                     CPU Wait (avg)                 0.00 ms
+504   PresentMon [dwm.exe]                     Animation Error (avg)          20.87 ms
+505   Network: Intel Wi-Fi 6E AX211 160MHz ... Total DL                       179 MB
+506   Network: Intel Wi-Fi 6E AX211 160MHz ... Total UP                       7 MB
+507   Network: Intel Wi-Fi 6E AX211 160MHz ... Current DL rate                0.3 KB/s
+508   Network: Intel Wi-Fi 6E AX211 160MHz ... Current UP rate                0.2 KB/s
+509   Windows Hardware Errors (WHEA)           Total Errors                   0 

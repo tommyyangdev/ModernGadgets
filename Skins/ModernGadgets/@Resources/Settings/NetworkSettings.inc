@@ -1,21 +1,21 @@
 [Variables]
-interfaceEthernet=
-interfaceWireless=
+interfaceEthernet=Realtek USB GbE Family Controller
+interfaceWireless=Intel(R) Wi-Fi 6E AX211 160MHz
 interfaceOther=
 
-censorExternalIp=0
+censorExternalIp=1
 showSpeedtestButton=1
-showPing=0
+showPing=1
 showNetTotals=1
-showLineGraph=1
+showLineGraph=0
 showPeakNetworkUsage=1
-monitoringType=standard
+monitoringType=netMonitor
 
-pingUrl=www.msftncsi.com
+pingUrl=www.google.com
 pingUpdateRate=30
 
 colorUpload=107,238,98
 colorDownload=255,246,42
-colorPeak=250,158,0
+colorPeak=99,125,217
 
-autoAdapterConfig=1
+autoAdapterConfig=0

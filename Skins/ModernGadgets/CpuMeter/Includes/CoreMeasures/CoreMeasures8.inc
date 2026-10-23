@@ -49,7 +49,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core0Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore1Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore1Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching | CpuTempHwinfo
-Disabled=(((#showCoreTemps# = 0) && (#showCpuTempGraph# = 0)) || (#cpuCores# / #threadsPerCore# < 1)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=(((#showCoreTemps# = 0) && (#showCpuTempGraph# = 0)) || (#cpuCores# < 1)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore2]
 Measure=Registry
@@ -59,7 +59,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core1Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore2Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore2Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 2)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 2)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore3]
 Measure=Registry
@@ -69,7 +69,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core2Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore3Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore3Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 3)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 3)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore4]
 Measure=Registry
@@ -79,7 +79,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core3Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore4Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore4Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 4)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 4)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore5]
 Measure=Registry
@@ -89,7 +89,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core4Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore5Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore5Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 5)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 5)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore6]
 Measure=Registry
@@ -99,7 +99,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core5Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore6Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore6Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 6)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 6)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore7]
 Measure=Registry
@@ -109,7 +109,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core6Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore7Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore7Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 7)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 7)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuTempHwinfoCore8]
 Measure=Registry
@@ -119,7 +119,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core7Temp#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore8Temp MeasureName "#CURRENTSECTION#"][!UpdateMeter MeterCore8Temp]
 Group=CoreTemps | HWiNFO | ProgramSwitching
-Disabled=((#showCoreTemps# <> 1) || (#cpuCores# / #threadsPerCore# < 8)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreTemps# <> 1) || (#cpuCores# < 8)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 ; __ CoreTemp
 [MeasureCpuTempCoreTempCore1]
@@ -298,7 +298,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core0Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 1)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 1)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore2]
 Measure=Registry
@@ -306,7 +306,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core1Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 2)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 2)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore3]
 Measure=Registry
@@ -314,7 +314,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core2Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 3)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 3)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore4]
 Measure=Registry
@@ -322,7 +322,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core3Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 4)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 4)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore5]
 Measure=Registry
@@ -330,7 +330,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core4Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 5)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 5)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore6]
 Measure=Registry
@@ -338,7 +338,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core5Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 6)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 6)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore7]
 Measure=Registry
@@ -346,7 +346,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core6Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 7)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 7)) || (#extProgram# <> 1)
 
 [MeasureCpuClockCore8]
 Measure=Registry
@@ -354,7 +354,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw#HWiNFO-CPU0-Core7Clock#
 Group=CoreClocks | ProgramSwitching
-Disabled=((#showCpuClock# = 0) || (#cpuCores# / #threadsPerCore# < 8)) || (#extProgram# <> 1)
+Disabled=((#showCpuClock# = 0) || (#cpuCores# < 8)) || (#extProgram# <> 1)
 
 ; Core Voltages
 [MeasureCpuVoltageCore1]
@@ -365,7 +365,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core0Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore1Voltage MeasureName "MeasureCpuVoltageCore1"][!UpdateMeter MeterCore1Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 1)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 1)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore2]
 Measure=Registry
@@ -375,7 +375,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core1Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore2Voltage MeasureName "MeasureCpuVoltageCore2"][!UpdateMeter MeterCore2Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 2)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 2)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore3]
 Measure=Registry
@@ -385,7 +385,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core2Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore3Voltage MeasureName "MeasureCpuVoltageCore3"][!UpdateMeter MeterCore3Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 3)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 3)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore4]
 Measure=Registry
@@ -395,7 +395,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core3Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore4Voltage MeasureName "MeasureCpuVoltageCore4"][!UpdateMeter MeterCore4Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 4)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 4)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore5]
 Measure=Registry
@@ -405,7 +405,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core4Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore5Voltage MeasureName "MeasureCpuVoltageCore5"][!UpdateMeter MeterCore5Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 5)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 5)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore6]
 Measure=Registry
@@ -415,7 +415,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core5Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore6Voltage MeasureName "MeasureCpuVoltageCore6"][!UpdateMeter MeterCore6Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 6)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 6)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore7]
 Measure=Registry
@@ -425,7 +425,7 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core6Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore7Voltage MeasureName "MeasureCpuVoltageCore7"][!UpdateMeter MeterCore7Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 7)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 7)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
 
 [MeasureCpuVoltageCore8]
 Measure=Registry
@@ -435,4 +435,4 @@ RegValue=ValueRaw#HWiNFO-CPU0-Core7Vid#
 IfCondition=MeasureCpuThreadsPerCore = 1
 IfTrueAction=[!SetOption MeterCore8Voltage MeasureName "MeasureCpuVoltageCore8"][!UpdateMeter MeterCore8Voltage]
 Group=CoreVoltages | ProgramSwitching
-Disabled=((#showCoreVoltages# = 0) || (#cpuCores# / #threadsPerCore# < 8)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)
+Disabled=((#showCoreVoltages# = 0) || (#cpuCores# < 8)) || (#extProgram# = 0) || (#extProgram# = 2) || (#extProgram# = 4) || (#extProgram# = 6)

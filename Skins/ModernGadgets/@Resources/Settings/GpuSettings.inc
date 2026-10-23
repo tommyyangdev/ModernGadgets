@@ -1,20 +1,20 @@
 [Variables]
 showGpuName=1
 showMemoryClock=1
-showFan1Info=1
-showFan2Info=1
-showFan3Info=1
+showFan1Info=0
+showFan2Info=0
+showFan3Info=0
 showMemoryController=1
 showVideoClock=1
 showCoreVoltage=1
-showLineGraph=1
+showLineGraph=0
 showTempGraph=1
 
-gpuName=auto
+gpuName=Nvidia GeForce RTX 4050
 
 useManualMaxVram=0
-maxVram=5192
-maxGpuTemp=100
+maxVram=
+maxGpuTemp=75
 
 colorCoreUsage=255,246,42
 colorMemoryUsage=107,198,250

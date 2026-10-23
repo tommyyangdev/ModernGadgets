@@ -3,8 +3,8 @@ lineGraphAa=1
 lineGraphBgType=1
 tempUnits=C
 
-scale=1
-tScale=1
+scale=1.05
+tScale=1.05
 
 cornerRoundness=3
 

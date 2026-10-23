@@ -7,20 +7,20 @@ fpfRamDepth=4
 fpfPageDepth=4
 
 ; SpeedFan Configuration
-sfCoreTemp=10
-sfCpuFan=1
+sfCoreTemp=
+sfCpuFan=
 
 ; Settings
 showCpuName=1
-showPageFile=0
+showPageFile=1
 showCoreTemps=1
 showCoreVoltages=1
 showCpuTempGraph=1
 showTopProcess=0
-showCpuFan=1
+showCpuFan=0
 showCpuFanGraph=0
 showCpuClock=1
-showLineGraph=1
+showLineGraph=0
 ; -----
 ; Naming mixup - first is line graph, second is the main display
 showAvgCpu=0
@@ -30,7 +30,7 @@ showTt=0
 playTtSound=0
 graphAllCoresMode=0
 
-cpuName=auto
+cpuName=Intel Core i7-13700H
 
 maxCpuTempMode=auto
 maxCpuFanMode=auto
